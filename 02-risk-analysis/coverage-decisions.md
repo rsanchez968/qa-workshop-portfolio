@@ -1,4 +1,4 @@
-# Deciciones de CObertura
+# Decisiones de Cobertura
 
 ## Riesgos que se probarán primero
 1. **R1 - Fallo en el registro de orden tras pago aprobado:** Pruebas de integración entre Checkout y confirmación de BD.
