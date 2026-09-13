@@ -10,7 +10,7 @@ Plataforma de e-commerce omnicanal para la venta en línea de mascotas, alimento
 Resuelve la necesidad de los usuarios de adquirir productos, alimentos y mascotas de forma remota, centralizando el catálogo y la gestión de pedidos en una única plataforma accesible 24/7.
 
 ## ¿Cómo genera valor para el negocio?
-Incrementa la conversión de ventas al reducir la fricción en el proceso de compra online, optimiza la rotación de inventario y amplía el alcance de mercado de PetStore Corp sin depender de tiendas físicas.
+Sostiene el canal principal de ventas de PetStore Corp al garantizar la disponibilidad directa de la venta de mascotas, alimentos y accesorios en línea. Genera valor al asegurar el procesamiento correcto de los pedidos del cliente, evitar la pérdida de ingresos por fallos en el checkout y mantener sincronizado el inventario entre la web y la API.
 
 ## Usuarios principales
 - **Clientes finales:** Usuarios que navegan el catálogo, registran sus datos, agregan ítems al carrito y procesan órdenes de compra.
