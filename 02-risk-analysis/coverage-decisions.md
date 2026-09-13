@@ -13,5 +13,6 @@ Porque afectan directamente los ingresos del negocio (conversión y pagos), la i
 - **Automatización de catálogo secundario:** Navegación exploratoria no transaccional.
 - **Pruebas de estrés masivo a la API:** Enfocadas solo a flujos CRUD funcionales en esta fase.
 
-## Justificación de exclusiones
-Dada la restricción de tiempo (60 min), la estrategia debe priorizar transacciones críticas. Los fallos estéticos o la falta de soporte en navegadores obsoletos no detienen las operaciones transaccionales clave.
+# Justificación de exclusiones
+
+Dado el alcance actual del proyecto y la necesidad de asegurar las funciones clave de negocio, la estrategia de QA prioriza la validación de transacciones críticas. Los fallos estéticos menores y la falta de soporte en navegadores obsoletos se dejan fuera del alcance principal, ya que no detienen las operaciones operativas clave del sistema.
