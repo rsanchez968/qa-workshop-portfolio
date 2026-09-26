@@ -4,7 +4,7 @@
 
 * **Título:** Exploración de endpoints de gestión de mascotas y actualización de estados.
 * **Misión:** Explorar las operaciones `POST /pet` y `PUT /pet` de Swagger utilizando datos válidos, límite e inválidos para descubrir inconsistencias en la validación de esquemas y códigos de respuesta HTTP.
-* **Área principal explorada:** API REST Swagger (https://petstore.swagger.io).
+* **Área principal explorada:** API REST Swagger (https://petstore.swagger.io/v2/swagger.json).
 
 ## Charter 2 (Web UI - JPetStore)
 
